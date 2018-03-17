@@ -31,8 +31,8 @@ export default class Section {
     }
   }
 
-  // 获取块的
+  // 获取所有块的索引
   getCellIndex () {
-    this._indices;
+   return this._indices;
   }
 }
